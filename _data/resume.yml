@@ -1,12 +1,16 @@
-# IMPORTANT: Set this to false.
-demo: true
+# Basic Info:
 
-# Theme customization is done on this file instead of _config.yml so that
-# you don't have to restart Jekyll to see changes.
+photo: "images/profile_image.png"
+name: "Your Name"
+copy: "Bio. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 
-photo: "https://avatars0.githubusercontent.com/u/2410692?v=2&s=150"
-name: "Elle Kasai"
-copy: "I'm a product designer based in BC, Canada. I'm currently working for Actcat which makes a code reviewing service called SideCI (https://sideci.com/)."
+# Contact Info:
+
+twitter_id: "your_twitter_id"
+github_id: "your_github_id"
+linked_in_id: "your_linkedin_id"
+personal_url: "your_personal_website_url.com"
+contact_email: "your_contact_email_address"
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
